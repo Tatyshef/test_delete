@@ -4,3 +4,5 @@
 вторая строка
 789
 add line
+stash
+new branch line 
